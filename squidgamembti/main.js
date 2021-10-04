@@ -136,7 +136,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
 
 
-        }
+        } else
 
         if (totalScore >= 18){  //ENTP
  
