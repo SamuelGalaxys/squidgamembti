@@ -83,7 +83,7 @@ function loadNextQuestion () {
         
 
 
-        if (totalScore >= 13){  //ENFJ
+        if (totalScore <= 13){  //ENFJ
 
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
