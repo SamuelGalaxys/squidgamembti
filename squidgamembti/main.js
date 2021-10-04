@@ -109,7 +109,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 15){  //ESFJ
+        if (totalScore <= 15){  //ESFJ
  
 
             result.innerHTML =
@@ -136,9 +136,9 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
 
 
-        } else
+        }else
 
-        if (totalScore >= 18){  //ENTP
+        if (totalScore <= 18){  //ENTP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -163,7 +163,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 21){  //ISFP
+        if (totalScore <= 21){  //ISFP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -205,7 +205,7 @@ function loadNextQuestion () {
 
 
 
-        if (totalScore >= 23){  //ESFP
+        if (totalScore <= 23){  //ESFP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -231,7 +231,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 25){  //ISFJ
+        if (totalScore <= 25){  //ISFJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -258,7 +258,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 28){  //INFP
+        if (totalScore <= 28){  //INFP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -283,7 +283,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 30){  //ENFP
+        if (totalScore <= 30){  //ENFP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -320,7 +320,7 @@ function loadNextQuestion () {
 
 
 
-        if (totalScore >= 33){  //ESTP
+        if (totalScore <= 33){  //ESTP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -345,7 +345,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 35){  //ISTP
+        if (totalScore <= 35){  //ISTP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -370,7 +370,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 38){  //INFJ
+        if (totalScore <= 38){  //INFJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -397,7 +397,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 40){  //ISTJ
+        if (totalScore <= 40){  //ISTJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -437,7 +437,7 @@ function loadNextQuestion () {
 
 
 
-        if (totalScore >= 43){  //INTP
+        if (totalScore <= 43){  //INTP
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -462,7 +462,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 46){  //ESTJ
+        if (totalScore <= 46){  //ESTJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -486,7 +486,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
-        if (totalScore >= 49){  //ENTJ
+        if (totalScore <= 49){  //ENTJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
@@ -510,7 +510,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else 
 
-        if (totalScore >= 53){  //INTJ
+        if (totalScore <= 53){  //INTJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
