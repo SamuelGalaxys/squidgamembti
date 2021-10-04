@@ -510,7 +510,7 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else 
 
-        if (totalScore <= 53){  //INTJ
+        if (totalScore >= 53){  //INTJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
