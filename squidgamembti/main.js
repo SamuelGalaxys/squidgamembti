@@ -486,12 +486,16 @@ function loadNextQuestion () {
            <button class="restart">다시하기</button>`;
         } else
 
+
+
+
         if (totalScore <= 49){  //ENTJ
  
             result.innerHTML =
             `<h1 class="final-score" style="font-family: bm11; font-size:38px">오징어게임 속 나는?</h1>
             <a style="font-family: bm11; font-size:19px">#오겜테스트 #스퀴드겜테스트 </a>
             <div class="summary">
+
             </br>
     
             <img src="squidgame/ENTJ.jpg" style="width: 200px; height: 200px; margin-left: auto; margin-right: auto;">
